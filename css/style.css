@@ -20,6 +20,7 @@ img{
     margin: 20px 0px 20px 20px;
     line-height: 50px;
     vertical-align: middle;
+    font-size: 32px;
 }
    
 
@@ -75,10 +76,15 @@ main{
 }
 
 .spunta{
-    font-size: 13px;
+    font-size: 10px;
     color: green;
-    border: 2px solid green;
+    border: 1px solid green;
     border-radius: 50%;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    text-align: center;
 }
 
 .edit1{
@@ -104,9 +110,15 @@ main{
 }
 
 .x{
+    font-size: 13px;
     color: red;
-    border: 2px solid red;
+    border: 1px solid red;
     border-radius: 50%;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    text-align: center;
 }   
 
 .edit3{
